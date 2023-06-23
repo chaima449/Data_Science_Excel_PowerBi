@@ -2,7 +2,7 @@
 
 This repository contains the data science projects I realized on Power Bi or Excel.
 
-The projects aims in general to:
+The projects aim in general to:
 
 - Clean the data
 - Do some calculations
